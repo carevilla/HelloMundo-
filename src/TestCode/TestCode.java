@@ -11,7 +11,10 @@ public class TestCode {
 		
 		System.out.println("Hello Mundo");
 		System.out.println("New Comment");
-
+		
+		int a = 5;
+		int b = 10;
+		System.out.println(a+b);
 	}
 
 }
